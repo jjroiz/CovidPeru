@@ -1,0 +1,13 @@
+name: "COVID PERU"
+output_dir: "."
+navbar:
+  title: "Pagina"
+  left:
+  - text: "Covid"
+    href: index.html
+  - text: "Analisis"
+    href: covidv4
+output:
+  html_document:
+    theme: united
+    highlight: textmate
